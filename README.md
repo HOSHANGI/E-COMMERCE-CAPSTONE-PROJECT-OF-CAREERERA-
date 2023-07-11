@@ -1,3 +1,4 @@
+![ecommerce-solução](https://github.com/HOSHANGI/E-COMMERCE-CAPSTONE-PROJECT-OF-CAREERERA-/assets/118753140/bb706747-d19e-4ee0-9270-862fa73704eb)
 # E-COMMERCE-CAPSTONE-PROJECT-OF-CAREERERA-
 
 Throughout the project, strict adherence to the provided guidelines has been maintained. The notebook commences with a clear indication of my name, followed by a concise yet comprehensive description of the project, encompassing its objectives. Each stage of the analysis and model building process has been meticulously documented, ensuring lucidity and logical coherence. Transparently specified are the techniques and algorithms employed, alongside any preprocessing or feature engineering steps undertaken.
